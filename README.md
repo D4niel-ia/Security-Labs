@@ -1,4 +1,4 @@
-# SOC Automation & Security Labs 🛡️
+# Security-Labs 🛡️
 
 ## 👤 Sobre Mim
 **Daniel | Analista de Infraestrutura e Segurança da Informação**
